@@ -1,9 +1,0 @@
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.streamlit/secrets.toml
-.DS_Store
-*.log
-# Dataset: do not publish until redistribution permissions are confirmed
-data/
